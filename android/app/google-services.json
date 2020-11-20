@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "507634937682",
+    "firebase_url": "https://ecommresturant.firebaseio.com",
+    "project_id": "ecommresturant",
+    "storage_bucket": "ecommresturant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507634937682:android:881e8136bd03dca987948b",
+        "android_client_info": {
+          "package_name": "com.mai.mai_ecomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507634937682-tbsc0uespvppf3b7jcgni8obfgkfj7er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mai.mai_ecomm",
+            "certificate_hash": "e08ea5f9c38559fdb6ea0075d8ac563285127e8a"
+          }
+        },
+        {
+          "client_id": "507634937682-if4ca0m23e87naeugmks73804fmnlsrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpvO30Ln6LGSdfV6LoHHZkIS7sLdyOLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507634937682-if4ca0m23e87naeugmks73804fmnlsrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
